@@ -124,7 +124,7 @@ img {
     #why .row>.second,
     #why .row>.third {
       width: 100%;
-      margin-top: 80px;
+      margin: 16px 0 24px;
     }
     
     #why .row img {
